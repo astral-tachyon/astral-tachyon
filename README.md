@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1CRzyzgRxdai1wptFJ4LB7BGRvMQ3PTrf/view?usp=sharing">
-  <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1CRzyzgRxdai1wptFJ4LB7BGRvMQ3PTrf/view?usp=sharing">
+  <source media="(prefers-color-scheme: dark)" srcset="https://images7.alphacoders.com/612/thumb-1920-612096.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://images7.alphacoders.com/612/thumb-1920-612096.jpg">
   <img alt="">
 </picture>
 
